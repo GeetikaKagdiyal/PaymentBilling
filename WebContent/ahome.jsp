@@ -96,11 +96,12 @@ out.print("</B></font>");
 %>
 <form name="myform" >
 
-<table><tr><td><font style="color: navy;">Branch123:</font></td><td><select name="branch" id="select">
+<table><tr><td><font style="color: navy;">Branch:</font></td><td><select name="branch" id="select">
 					<option>Select a Branch</option>
 					<option>Ghaziabad</option>
 					<option>Noida</option>
 					<option>Delhi</option>
+					<option>Chandigarh</option>
 					</select></td></tr>
 					<tr><td><br></td></tr>
 <tr><td><font style="color: navy;">Find:-</font></td><td><input type="text" align="right" name="findName" onkeyup="sendInfo()"></input></td></tr></table>
