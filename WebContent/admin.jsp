@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>
-			Welcome Page !!!!
+			Welcome Page
 		</title>
 		<link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
@@ -12,7 +12,7 @@
 			
 				<div id="logo">
 					<h1>
-						Payment Billing System!!
+						Payment Billing System
 					</h1>
 				</div>	
 		</div>
